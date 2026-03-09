@@ -1,6 +1,6 @@
 
 ## 👋 Hey, I am Emama Noor
-I am a Full Stack Engineer with hands-on experience in MERN stack. I've delivered web products for early-stage startups and client teams, with a strong eye for clean UI and code quality.
+I am Full Stack Engineer skilled in MERN stack. I've delivered web products for early-stage startups and client teams, with a strong eye for clean UI and code quality, seeking a role to build scalable, user-focused web applications.
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=EmamaNoor&&style=flat-square" align="center" />
