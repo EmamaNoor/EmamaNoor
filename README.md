@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Emama%20Noor&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=53&descAlign=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Emama%20Noor&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=53&descAlign=70" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emamanoor/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge)](https://emamanoor.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emamanoor7@gmail.com)
 
 # 🛠️ Tech Stack
 
@@ -18,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,14 +37,16 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=EmamaNoor&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" align="center" />
+
 </div>
 
+##
 <br>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=Building+systems+that+work+while+you+sleep" alt="Typing SVG" /></a>
 </div>
 
+##
 <p align="center">
 	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </p>
