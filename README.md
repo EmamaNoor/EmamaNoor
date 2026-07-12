@@ -43,7 +43,7 @@
 ##
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=Building+systems+that+work+while+you+sleep" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=Building+systems+that+work+while+you+sleep+!" alt="Typing SVG" /></a>
 </div>
 
 ##
