@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Emama%20Noor&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=53&descAlign=70" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emamanoor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge)](https://emamanoor.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge)](https://emamanoor.dev)
 
 # 🛠️ Tech Stack
 
